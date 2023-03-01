@@ -114,6 +114,9 @@ justify-content: space-around;
     .projectCard > div {
         justify-content: center;
     }
+    .projectCard:nth-child(even){
+        flex-direction: column;
+    }
     .projectCard > div:last-child > p {
         text-align: center;
     }
