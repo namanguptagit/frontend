@@ -36,8 +36,8 @@
     box-sizing: border-box;
     padding: 2vmax;
     display: flex;
-    transform: translateX(-100vw) translateY(-10%) ;
-    animation: aboutAnimation 1.5s ease-in forwards;
+    transform: translateX(-100vw) translateY(-10%) rotate(-480deg);
+    animation: aboutAnimation 1s ease-in forwards;
 }
 
 .aboutContainer2 > div {

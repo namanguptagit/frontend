@@ -28,9 +28,9 @@ const Header = () => {
     link1Size="1.5rem"
     link1Padding="3vmax"
     profileIcon={true}
-      ProfileIconElement={FaUserAlt}
-      profileIconColor="HSL(250, 100%, 75%)"
-      profileIconColorHover="white"
+    ProfileIconElement={FaUserAlt}
+    profileIconColor="HSL(250, 100%, 75%)"
+    profileIconColorHover="white"
     />
   )
 }
